@@ -7,3 +7,4 @@ result = (p**r)*(1-(p**(-1*t)))
 
 puts Float(result)
 
+
